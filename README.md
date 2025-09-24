@@ -1,18 +1,34 @@
-# Hi there 👋, I'm [Your Name]
-💻 Software Engineer | 🌐 Open Source Enthusiast | 🚀 Always Learning
+# Hi there 👋, I'm Marvz  
+💻 Software Engineer | 🎨 UI Designer | 🚀 Always Learning  
 
+---
 
-<!--
-**bettermarvz/bettermarvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🔭 Currently working at: Betterteem AI
+- 🌱 Learning: [Tech or tools you’re exploring]  
+- 💬 Ask me about: Frontend Development or UI Design
+- ⚡ Fun fact: Hhhmmm
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** JavaScript
+- **Frameworks:** React, Node.js, NextJs
+- **Design Tools:** Figma, Adobe XD, Affinity Designer
+- **Other Tools:** Git, Docker, Supabase
+
+---
+
+## 📊 GitHub Stats
+![Marvz's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect With Me
+- [Portfolio](https://yourwebsite.com)  
+- [LinkedIn](https://linkedin.com/in/yourname)  
+- [Twitter](https://twitter.com/yourhandle)  
+
+---
+✨ _“Code is like art — simple, elegant, and meaningful.”_
