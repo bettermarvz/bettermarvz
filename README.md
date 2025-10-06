@@ -4,8 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working at: Betterteem AI
-- 🌱 Learning: [Tech or tools you’re exploring]  
+- 🔭 Currently working at: Betterteem AI  
 - 💬 Ask me about: Frontend Development or UI Design
 - ⚡ Fun fact: Hhhmmm
 
