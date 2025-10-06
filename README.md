@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Marvz  
-💻 Software Engineer | 🎨 UI Designer | 🚀 Always Learning  
+💻 Frontend Developer | 🎨 UI Designer | 🚀 Always Learning  
 
 ---
 
