@@ -14,7 +14,7 @@
 - **Languages:** JavaScript
 - **Frameworks:** React, Node.js, NextJs
 - **Design Tools:** Figma, Adobe XD, Affinity Designer
-- **Other Tools:** Git, Docker, Supabase
+- **Other Tools:** Git, Supabase
 
 ---
 
