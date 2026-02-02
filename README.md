@@ -26,6 +26,7 @@
 
 ## 🌐 Personal Projects
 - [DevLink](https://sharedevlink.vercel.app)  
+- [FaithStep](https://faithstep.vercel.app)  
 
 ---
 ✨ _“Code is like art — simple, elegant, and meaningful.”_
